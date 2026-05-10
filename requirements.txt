@@ -9,3 +9,4 @@ chromadb
 openai
 pydantic-settings
 alembic
+email-validator
